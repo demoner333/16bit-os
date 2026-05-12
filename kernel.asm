@@ -1,4 +1,3 @@
-; kernel.asm - The Halal OS 9008 - Исправленная версия
 [org 0x0000]
 [bits 16]
 
